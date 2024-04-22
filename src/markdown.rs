@@ -109,7 +109,7 @@ CREATE TABLE {} (
         let this_id = self.next_id;
         self.next_id += 1;
         self.queries.push(format!(
-            "INSERT INTO {} VALUES({:?}, {:?}, {:?});",
+            "INSERT INTO {} VALUES({}, {}, {});",
             table_name, this_id, tree.text, parent_id_string
         ));
         for child in tree.children {
@@ -246,7 +246,7 @@ fn test_write_sql_insertion() {
 
     assert_eq!(
         sql,
-        "INSERT INTO templates VALUES(1, \"root\", \"NULL\");
-INSERT INTO templates VALUES(2, \"child\", \"1\");"
+        "INSERT INTO templates VALUES(1, root, NULL);
+INSERT INTO templates VALUES(2, child, 1);"
     );
 }

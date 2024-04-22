@@ -1,7 +1,7 @@
 /// Entry point of the program.
 /// Parses command line arguments to get a markdown file name,
-/// reads the file, converts the markdown into a SQL table with its data,
-/// and prints the resulting SQL commands.
+/// reads the file, converts the markdown into a SQL query to insert the
+/// data.
 mod markdown;
 use clap::{Arg, ArgAction, Command};
 use itertools::Itertools;
@@ -27,13 +27,10 @@ fn main() {
     let table_definition = tree_to_sql.write_table_definition(table_name);
     let sql_query = table_definition + &tree_to_sql.write_sql_insertions(root, table_name);
 
-    match std::fs::write(args.output_file, &sql_query) {
-        Ok(_) => {}
-        Err(err) => {
-            eprintln!("Could not write file: {}. Dumping to stdout.", err);
-            println!("{}", &sql_query);
-        }
-    };
+    std::fs::write(args.output_file, &sql_query).unwrap_or_else(|err| {
+        eprintln!("Could not write file: {}. Dumping to stdout.", err);
+        println!("{}", &sql_query);
+    });
 }
 
 struct InputFileArg {
@@ -47,7 +44,7 @@ struct Arguments {
 }
 
 fn parse_args() -> Arguments {
-    let matches = Command::new("Markdown to SQL")
+    let parser = Command::new("Markdown to SQL")
         .version("0.1.0")
         .author("Reinder Vos de Wael <reinder.vosdewael@childmind.org>")
         .about("Converts markdown files to SQL tables.")
@@ -71,12 +68,11 @@ fn parse_args() -> Arguments {
         )
         .get_matches();
 
-    let output_file = match matches.get_one::<String>("output_file") {
-        Some(value) => value,
-        None => unreachable!("No output file provided. Exiting."),
-    };
+    let output_file = parser.get_one::<String>("output_file").unwrap_or_else(|| {
+        unreachable!("No output file provided. This should have been caught by the parser.");
+    });
 
-    if let Some(values) = matches.get_many::<String>("input_file") {
+    if let Some(values) = parser.get_many::<String>("input_file") {
         let input_files: Vec<InputFileArg> = values
             .into_iter()
             .chunks(2)
@@ -91,7 +87,7 @@ fn parse_args() -> Arguments {
             output_file: output_file.to_owned(),
         };
     }
-    unreachable!("Error in parsing input arguments.")
+    unreachable!("Error in input arguments. This should have been caught by the parser.")
 }
 
 fn read_file(filename: &str) -> String {
