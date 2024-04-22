@@ -33,6 +33,11 @@ fn main() {
     });
 }
 
+fn read_file(filename: &str) -> String {
+    return std::fs::read_to_string(filename)
+        .unwrap_or_else(|err| panic!("Could not read Markdown file: {}", err));
+}
+
 struct InputFileArg {
     name: String,
     file: String,
@@ -56,7 +61,7 @@ fn parse_args() -> Arguments {
                 .long("input")
                 .value_names(&["name", "file"])
                 .number_of_values(2)
-                .help("The file to write the SQL output to."),
+                .help("Takes two arguments: the root name of the tree in SQL and the filepath."),
         )
         .arg(
             Arg::new("output_file")
@@ -88,13 +93,4 @@ fn parse_args() -> Arguments {
         };
     }
     unreachable!("Error in input arguments. This should have been caught by the parser.")
-}
-
-fn read_file(filename: &str) -> String {
-    return match std::fs::read_to_string(filename) {
-        Ok(content) => content,
-        Err(_) => {
-            panic!("Could not read Markdown file. Exiting.")
-        }
-    };
 }
