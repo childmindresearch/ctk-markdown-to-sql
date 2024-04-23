@@ -34,5 +34,5 @@ INSERT INTO templates VALUES(5, text, 4);
 INSERT INTO templates VALUES(6, Header 2.2, 3);
 INSERT INTO templates VALUES(7, text1
 text2, 6);
-
+COMMIT;
 ```
