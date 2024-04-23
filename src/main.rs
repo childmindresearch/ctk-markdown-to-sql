@@ -6,7 +6,7 @@ mod markdown;
 use clap::{Arg, ArgAction, Command};
 use itertools::Itertools;
 
-fn main() {
+fn main() -> Result<(), std::io::Error> {
     let args = parse_args();
     let root = markdown::TreeNode {
         text: "root".to_string(),
@@ -27,14 +27,16 @@ fn main() {
     let table_definition = tree_to_sql.write_table_definition(table_name);
     let sql_query = table_definition + &tree_to_sql.write_sql_insertions(root, table_name);
 
-    std::fs::write(args.output_file, &sql_query).unwrap_or_else(|err| {
-        eprintln!("Could not write file: {}. Dumping to stdout.", err);
-        println!("{}", &sql_query);
-    });
+    let write_result = std::fs::write(args.output_file, &sql_query);
+    if write_result.is_err() {
+        eprintln!("Could not write to output file.",);
+    }
+    return write_result;
 }
 
 fn read_file(filename: &str) -> String {
-    return std::fs::read_to_string(filename).expect("Could not read Markdown file: {}");
+    return std::fs::read_to_string(filename)
+        .expect("Input files should be readable plaintext files.");
 }
 
 struct InputFileArg {
@@ -74,18 +76,24 @@ fn parse_args() -> Arguments {
 
     let output_file = parser
         .get_one::<String>("output_file")
-        .expect("No output file provided. This should have been caught by the parser.");
+        .expect("No output file provided; this should have been caught by the parser.");
 
     let input_values = parser
         .get_many::<String>("input_file")
-        .expect("Error in input arguments. This should have been caught by the parser.");
+        .expect("Error in input arguments; this should have been caught by the parser.");
     let input_files: Vec<InputFileArg> = input_values
         .into_iter()
         .chunks(2)
         .into_iter()
         .map(|mut chunk| InputFileArg {
-            name: chunk.next().unwrap().to_string(),
-            file: chunk.next().unwrap().to_string(),
+            name: chunk
+                .next()
+                .expect("Unexpected error in input argument parsing; this should have been caught by the parser.")
+                .to_string(),
+            file: chunk
+                .next()
+                .expect("Unexpected error in input argument parsing;his should have been caught by the parser.")
+                .to_string(),
         })
         .collect();
     return Arguments {

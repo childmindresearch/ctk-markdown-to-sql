@@ -23,12 +23,10 @@ impl TreeNode {
         lines: &mut std::iter::Peekable<impl Iterator<Item = (usize, &'a str)>>,
     ) {
         while let Some(&(depth, text)) = lines.peek() {
-            if depth < self.depth {
+            if depth < self.depth || (depth == self.depth && depth != PARAGRAPH_DEPTH) {
                 return;
             }
-            if depth == self.depth && depth != PARAGRAPH_DEPTH {
-                return;
-            }
+
             lines.next();
             if depth == PARAGRAPH_DEPTH && self.depth == PARAGRAPH_DEPTH {
                 self.text.push('\n');
