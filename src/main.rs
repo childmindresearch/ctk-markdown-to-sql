@@ -34,8 +34,7 @@ fn main() {
 }
 
 fn read_file(filename: &str) -> String {
-    return std::fs::read_to_string(filename)
-        .unwrap_or_else(|err| panic!("Could not read Markdown file: {}", err));
+    return std::fs::read_to_string(filename).expect("Could not read Markdown file: {}");
 }
 
 struct InputFileArg {
@@ -73,24 +72,24 @@ fn parse_args() -> Arguments {
         )
         .get_matches();
 
-    let output_file = parser.get_one::<String>("output_file").unwrap_or_else(|| {
-        unreachable!("No output file provided. This should have been caught by the parser.");
-    });
+    let output_file = parser
+        .get_one::<String>("output_file")
+        .expect("No output file provided. This should have been caught by the parser.");
 
-    if let Some(values) = parser.get_many::<String>("input_file") {
-        let input_files: Vec<InputFileArg> = values
-            .into_iter()
-            .chunks(2)
-            .into_iter()
-            .map(|mut chunk| InputFileArg {
-                name: chunk.next().unwrap().to_string(),
-                file: chunk.next().unwrap().to_string(),
-            })
-            .collect();
-        return Arguments {
-            input_files,
-            output_file: output_file.to_owned(),
-        };
-    }
-    unreachable!("Error in input arguments. This should have been caught by the parser.")
+    let input_values = parser
+        .get_many::<String>("input_file")
+        .expect("Error in input arguments. This should have been caught by the parser.");
+    let input_files: Vec<InputFileArg> = input_values
+        .into_iter()
+        .chunks(2)
+        .into_iter()
+        .map(|mut chunk| InputFileArg {
+            name: chunk.next().unwrap().to_string(),
+            file: chunk.next().unwrap().to_string(),
+        })
+        .collect();
+    return Arguments {
+        input_files,
+        output_file: output_file.to_owned(),
+    };
 }
