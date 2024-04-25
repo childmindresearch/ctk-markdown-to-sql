@@ -7,8 +7,8 @@ static PARAGRAPH_DEPTH: usize = 99999;
 
 pub struct TreeNode {
     pub text: String,
-    pub children: Vec<TreeNode>,
     pub depth: usize,
+    pub children: Vec<TreeNode>,
 }
 
 impl TreeNode {
@@ -31,6 +31,7 @@ impl TreeNode {
             if depth == PARAGRAPH_DEPTH && self.depth == PARAGRAPH_DEPTH {
                 self.text.push('\n');
                 self.text += text.trim();
+                self.walk(lines);
                 return;
             }
 
@@ -107,12 +108,19 @@ CREATE TABLE {} (
         let this_id = self.next_id;
         self.next_id += 1;
         self.queries.push(format!(
-            "INSERT INTO {} VALUES({}, {}, {});",
-            table_name, this_id, tree.text, parent_id_string
+            "INSERT INTO {} VALUES('{}', '{}', '{}');",
+            table_name,
+            this_id,
+            self.sanitize(&tree.text),
+            parent_id_string
         ));
         for child in tree.children {
             self._write_sql_insertions_loop(child, table_name, Some(this_id));
         }
+    }
+
+    fn sanitize(&self, text: &str) -> String {
+        return text.replace("'", "''").replace("’", "''");
     }
 }
 
@@ -202,6 +210,34 @@ text2
 }
 
 #[test]
+fn test_parse_markdown_tree_table() {
+    let markdown = "# Header 1
++-----------------------+---------------------------------------------------------+
+| Subtest               | Descriptor                                              |
++=======================+=========================================================+
+| Similarities          | Abstract verbal reasoning abilities                     |
+|                       |                                                         |
++-----------------------+---------------------------------------------------------+";
+
+    let tree = parse_markdown_tree(markdown, "root");
+
+    assert_eq!(tree.text, "root", "root node is named root");
+    assert_eq!(tree.children.len(), 1, "root node has one child");
+    assert_eq!(
+        tree.children[0].children[0].children.len(),
+        0,
+        "table has no children"
+    );
+    assert_eq!(
+        tree.children[0].children[0].text,
+        markdown
+            .split_once('\n')
+            .expect("should succeed as input is static")
+            .1
+    );
+}
+
+#[test]
 fn test_write_table_definition() {
     let tree_to_sql = TreeToSql {
         next_id: 1,
@@ -233,7 +269,7 @@ fn test_write_sql_insertion() {
     let tree = TreeNode {
         text: "root".to_string(),
         children: vec![TreeNode {
-            text: "child".to_string(),
+            text: "child's".to_string(),
             children: vec![],
             depth: 1,
         }],
@@ -244,7 +280,7 @@ fn test_write_sql_insertion() {
 
     assert_eq!(
         sql,
-        "INSERT INTO templates VALUES(1, root, NULL);
-INSERT INTO templates VALUES(2, child, 1);"
+        "INSERT INTO templates VALUES('1', 'root', 'NULL');
+INSERT INTO templates VALUES('2', 'child''s', '1');"
     );
 }
