@@ -101,6 +101,9 @@ CREATE TABLE {} (
         table_name: &str,
         parent_id: Option<usize>,
     ) {
+        if tree.text.is_empty() {
+            return;
+        }
         let parent_id_string = match parent_id {
             Some(number) => number.to_string(),
             None => "NULL".into(),
@@ -108,7 +111,7 @@ CREATE TABLE {} (
         let this_id = self.next_id;
         self.next_id += 1;
         self.queries.push(format!(
-            "INSERT INTO {} VALUES('{}', '{}', '{}');",
+            "INSERT INTO {} VALUES({}, '{}', {});",
             table_name,
             this_id,
             self.sanitize(&tree.text),
@@ -120,7 +123,11 @@ CREATE TABLE {} (
     }
 
     fn sanitize(&self, text: &str) -> String {
-        return text.replace("'", "''").replace("’", "''");
+        return text
+            .replace("'", "''")
+            .replace("’", "''")
+            .trim()
+            .to_string();
     }
 }
 
@@ -135,7 +142,6 @@ pub fn parse_markdown_tree(markdown: &str, root_name: &str) -> TreeNode {
     let mut levels = markdown
         .split("\n")
         .into_iter()
-        .filter(|line| !line.trim().is_empty())
         .map(|line| {
             let mut leading_hashes = count_leading_characters(line, '#');
             if leading_hashes == 0 {
@@ -204,7 +210,7 @@ text2
         "header 2.2 has one child"
     );
     assert_eq!(
-        tree.children[0].children[1].children[0].text, "text1\ntext2",
+        tree.children[0].children[1].children[0].text, "\ntext1\ntext2\n",
         "paragraphs are correctly concatenated"
     );
 }
@@ -280,7 +286,7 @@ fn test_write_sql_insertion() {
 
     assert_eq!(
         sql,
-        "INSERT INTO templates VALUES('1', 'root', 'NULL');
-INSERT INTO templates VALUES('2', 'child''s', '1');"
+        "INSERT INTO templates VALUES(1, 'root', NULL);
+INSERT INTO templates VALUES(2, 'child''s', 1);"
     );
 }

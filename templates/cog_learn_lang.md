@@ -1,4 +1,3 @@
-
 # Caveats
 
 ## Hyperactivity
@@ -124,6 +123,7 @@ Behavioral observations revealed {{CHILD_NAME}} to be highly cooperative and agr
 Testing was completed over the course of two sessions, to gain insight into {{CHILD_NAME}}’s overall intellectual ability, language, neurocognitive and academic skills.
 
 **WISC-V**
+
 +-----------------------+---------------------------------------------------------+
 | Subtest               | Descriptor                                              |
 +=======================+=========================================================+
@@ -284,6 +284,7 @@ This pattern of strengths and weaknesses suggests that {{CHILD_NAME}} best emplo
 Testing was completed over the course of two sessions, to gain insight into {{CHILD_NAME}}’s overall intellectual ability, language, neurocognition and academic skills.
 
 **WAIS-IV**
+
 +-----------------------+---------------------------------------------------------+
 | Subtest               | Descriptor                                              |
 +=======================+=========================================================+
@@ -1256,3 +1257,4 @@ Alternatively, on the GFTA-3, {{CHILD_NAME}} demonstrated slightly below average
 | 18+          | 140+           | Extremely High    | Strong                                  |
 |              |                |                   |                                         |
 +--------------+----------------+-------------------+-----------------------------------------+
+
