@@ -124,39 +124,19 @@ Testing was completed over the course of two sessions, to gain insight into {{CH
 
 **WISC-V**
 
-+-----------------------+---------------------------------------------------------+
-| Subtest               | Descriptor                                              |
-+=======================+=========================================================+
-| Similarities          | Abstract verbal reasoning abilities                     |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Vocabulary            | Word knowledge                                          |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Block Design          | Visuospatial constructional skills                      |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Visual Puzzles        | Understand and synthesize spatial information           |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Matrix Reasoning      | Untimed inductive reasoning; abstract pattern reasoning |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Figure Weights        | Quantitative reasoning                                  |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Digit Span            | Auditory working memory                                 |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Picture Span          | Visual working memory                                   |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Coding                | Graphomotor speed for transcription                     |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Symbol Search         | Rapid visual discrimination                             |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
+| Subtest         | Descriptor                                              |
+|-----------------|---------------------------------------------------------|
+| Similarities    | Abstract verbal reasoning abilities                     |
+| Vocabulary      | Word knowledge                                          |
+| Block Design    | Visuospatial constructional skills                      |
+| Visual Puzzles  | Understand and synthesize spatial information           |
+| Matrix Reasoning| Untimed inductive reasoning; abstract pattern reasoning |
+| Figure Weights  | Quantitative reasoning                                  |
+| Digit Span      | Auditory working memory                                 |
+| Picture Span    | Visual working memory                                   |
+| Coding          | Graphomotor speed for transcription                     |
+| Symbol Search   | Rapid visual discrimination                             |
+
 
 ## No significant Variability
 
@@ -285,40 +265,19 @@ Testing was completed over the course of two sessions, to gain insight into {{CH
 
 **WAIS-IV**
 
-+-----------------------+---------------------------------------------------------+
-| Subtest               | Descriptor                                              |
-+=======================+=========================================================+
-| Similarities          | Abstract verbal reasoning abilities                     |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Vocabulary            | Word knowledge                                          |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Information           | Acquired general knowledge                              |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Block Design          | Visuospatial constructional skills                      |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Matrix Reasoning      | Untimed inductive reasoning; abstract pattern reasoning |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Visual Puzzles        | Visual processing                                       |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Digit Span            | Auditory working memory                                 |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Arithmetic            | Mental manipulation of number operations; mental        |
-|                       | calculation                                             |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Symbol Search         | Rapid visual discrimination                             |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
-| Coding                | Graphomotor speed for transcription                     |
-|                       |                                                         |
-+-----------------------+---------------------------------------------------------+
+| Subtest         | Descriptor                                                  |
+|-----------------|-------------------------------------------------------------|
+| Similarities    | Abstract verbal reasoning abilities                         |
+| Vocabulary      | Word knowledge                                              |
+| Information     | Acquired general knowledge                                  |
+| Block Design    | Visuospatial constructional skills                          |
+| Matrix Reasoning| Untimed inductive reasoning; abstract pattern reasoning     |
+| Visual Puzzles  | Visual processing                                           |
+| Digit Span      | Auditory working memory                                     |
+| Arithmetic      | Mental manipulation of number operations; mental calculation|
+| Symbol Search   | Rapid visual discrimination                                 |
+| Coding          | Graphomotor speed for transcription                         |
+
 
 
 
@@ -1219,49 +1178,21 @@ Alternatively, on the GFTA-3, {{CHILD_NAME}} demonstrated slightly below average
 
 **GFTA Scores and Descriptors**
 
-+--------------+----------------+-------------------+-----------------------------------------+
-| Scaled Score | Standard Score | Descriptor        | Interpretation of Skills                |
-+==============+================+===================+=========================================+
-| ≤ 1          | < 60           | Extremely Low     | Deficit or poorly developed             |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 2/3          | 60/65          | Very Low          | Deficit or poorly developed             |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 4            | 70             | Low               | Deficit or poorly developed             |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 5            | 75             | Low               | Weakly developed or marked weakness     |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 6            | 80             | Low Average       | Weakly developed                        |
-|              |                |                   | 80-84 = weakly developed                |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 7            | 85             | Low Average       | Weakness (sometimes underdeveloped)     |
-|              |                |                   | 85-89 = mild weakness                   |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 8            | 90             | Average           | Vulnerability                           |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 9            | 95             | Average           | Adequately developed                    |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 10/11        | 100/105        | Average           | Intact or appropriately developed       |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 12           | 110            | High Average      | Nicely developed                        |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 13/14        | 115/120        | High Average/High | Well developed                          |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 15           | 125            | High              | Well developed                          |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 16/17        | 130/135        | Very High         | Strong                                  |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
-| 18+          | 140+           | Extremely High    | Strong                                  |
-|              |                |                   |                                         |
-+--------------+----------------+-------------------+-----------------------------------------+
+| Scaled Score | Standard Score | Descriptor        | Interpretation of Skills                  |
+|--------------|----------------|-------------------|-------------------------------------------|
+| ≤ 1          | < 60           | Extremely Low     | Deficit or poorly developed               |
+| 2/3          | 60/65          | Very Low          | Deficit or poorly developed               |
+| 4            | 70             | Low               | Deficit or poorly developed               |
+| 5            | 75             | Low               | Weakly developed or marked weakness       |
+| 6            | 80             | Low Average       | Weakly developed                          |
+| 7            | 85             | Low Average       | Weakness (sometimes underdeveloped)       |
+| 8            | 90             | Average           | Vulnerability                             |
+| 9            | 95             | Average           | Adequately developed                      |
+| 10/11        | 100/105        | Average           | Intact or appropriately developed         |
+| 12           | 110            | High Average      | Nicely developed                          |
+| 13/14        | 115/120        | High Average/High | Well developed                            |
+| 15           | 125            | High              | Well developed                            |
+| 16/17        | 130/135        | Very High         | Strong                                    |
+| 18+          | 140+           | Extremely High    | Strong                                    |
+
 
