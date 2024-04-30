@@ -24,9 +24,12 @@ fn main() -> Result<(), std::io::Error> {
     };
 
     let table_name = "templates";
-    let table_definition = tree_to_sql.write_table_definition(table_name);
     let sql_query =
-        table_definition + &tree_to_sql.write_sql_insertions(root, table_name) + "\nCOMMIT;";
+        format!("DROP TABLE IF EXISTS {};", table_name) +
+        &tree_to_sql.write_table_definition(table_name) + 
+        &tree_to_sql.write_sql_insertions(root, table_name) + 
+        &tree_to_sql.convert_id_to_auto_increment(table_name) +
+        "\nCOMMIT;";
 
     let write_result = std::fs::write(args.output_file, &sql_query);
     if write_result.is_err() {
