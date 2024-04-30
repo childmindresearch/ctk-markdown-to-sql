@@ -264,8 +264,7 @@ fn test_write_table_definition() {
 
     assert_eq!(
         table_definition,
-        "BEGIN TRANSACTION;
-CREATE TABLE templates (
+        "CREATE TABLE templates (
     id INTEGER NOT NULL,
     text VARCHAR(10000) NOT NULL,
     parent_id INTEGER,
