@@ -64,8 +64,7 @@ impl TreeToSql {
     /// Returns the SQL command to create the table.
     pub fn write_table_definition(&self, table_name: &str) -> String {
         return format!(
-            "BEGIN TRANSACTION;
-CREATE TABLE {} (
+            "CREATE TABLE {} (
     id INTEGER NOT NULL,
     text VARCHAR(10000) NOT NULL,
     parent_id INTEGER,
