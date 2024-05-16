@@ -15,8 +15,8 @@ The current abbreviated mental health evaluation did not assess cognitive and ac
 The current abbreviated mental health evaluation did not assess cognitive and academic functioning due to restrictions related to the COVID-19 pandemic. {{CHILD_NAME}}'s history of language delays and intervention and concerns regarding reading, writing and math indicate a comprehensive evaluation is important. It is anticipated that when the Healthy Brain Network offices re-open, {{CHILD_NAME}} will be scheduled for in-person appointments and complete the standardized cognition, academic, and language measures at that time.
 # Diagnoses
 ## ADHD
-### presentations
-#### Attention-Deficit/Hyperactivity Disorder, Combined presentation	
+### Diagnosis by Presentation
+#### Combined Presentation	
 ##### teacher report not available
 These reports indicate that {{CHILD_NAME}} presents with inattentive, hyperactive and impulsive symptoms that are consistent with a diagnosis of Attention-Deficit/Hyperactivity Disorder, Combined presentation.  {{CHILD_NAME}}'s neurocognitive profile (i.e., weaknesses in sustained attention, working memory, processing speed, executive functioning), elevations on the Conners, CBCL, ESWAN, YSR, and TRF questionnaires, further support this diagnosis. Teacher report was not available. It is not uncommon that children with ADHD exhibit changes in symptomatology over the course of childhood, as they begin to receive support. As such, periodic reassessment of symptom levels is warranted. Psychotherapeutic intervention including psychopharmacology consultation and implementation of strategies to improve his/her executive functioning are suggested, as described below.
 ##### Initial Dx w/ Sleep Problems
@@ -27,10 +27,10 @@ These reports indicate that {{CHILD_NAME}} continues to exhibit symptoms that ar
 These reports indicate that {{CHILD_NAME}} presents with inattentive, hyperactive and impulsive symptoms that are consistent with a diagnosis of Attention-Deficit/Hyperactivity Disorder, Combined presentation. {{CHILD_NAME}}'s testing profile on neurocognitive tests (i.e., marked deficits in processing speed and working memory) similarly indicated strong agreement with an ADHD diagnosis. It is important to note that children who have learning and language disorders can present as inattentive, when in fact they are having difficulty concentrating due to difficulty understanding/processing the presented concepts. To the extent that these factors contribute to his/her ADHD symptoms, improvements in attention would be expected with appropriate support in school, with instruction modified to his/her ability level. However, reports and observations indicate that {{CHILD_NAME}}'s difficulty focusing and hyperactivity extends beyond situations in which he/she might not understand what is expected. It is not uncommon that children with ADHD exhibit changes in symptomatology over the course of childhood, as they begin to receive support. As such, periodic reassessment of symptom levels is warranted. Psychotherapeutic intervention including psychopharmacology and implementation of strategies to improve his/her executive functioning are suggested, as described below.
 ##### Current vs Past Symptoms
 These reports indicate that {{CHILD_NAME}} continues to meet criteria for Attention-Deficit/Hyperactivity Disorder (ADHD)-Combined Presentation, consistent with his/her reported and documented history. However, it is important to consider current and past symptomology. At this time, {{CHILD_NAME}} and {{PARENT_NAME}} reported X/9 present and X/9 past frequent symptoms of inattention as well as X/9 present and X/9 past frequent symptoms of impulsivity/hyperactivity. Given the past/current treatment and past/current school support {{CHILD_NAME}} has been receiving, full criteria are not met at this time. However, as per his/her documented history of ADHD and consistent with behavioral observations gathered from this evaluation, this diagnosis will be retained. {{CHILD_NAME}}'s neurocognitive profile (i.e., deficits/weaknesses in sustained attention, processing speed, executive functioning, working memory) as well as elevations on the Conners-3, YSR, CBCL, TRF, and ESWAN questionnaires further support this diagnosis. Behavioral strategies and plans may be used in conjunction with medication to help {{CHILD_NAME}} focus on tasks. 
-#### Attention-Deficit/Hyperactivity Disorder, Predominantly hyperactive/impulsive presentation
+#### Predominantly Hyperactive/Impulsive Presentation
 ##### standard
 These reports indicate that {{CHILD_NAME}} meets criteria for Attention-Deficit/Hyperactivity Disorder (ADHD)-Predominantly Hyperactive/Impulsive Presentation based on X/9 frequent symptoms of inattention and X/9 frequent symptoms of impulsivity/hyperactivity.'{{CHILD_NAME}}'s neurocognitive profile (i.e., weaknesses in sustained attention, working memory, processing speed, executive functioning), as well as elevations on the Conners, CBCL, ESWAN, YSR, and TRF questionnaires, further support this diagnosis. Psychotherapeutic intervention and implementation of strategies to improve his/her executive functioning is suggested, as described below. A consultation with a psychiatrist is also suggested, as described below, to consider options for psychopharmacological treatment.
-#### Attention-Deficit/Hyperactivity Disorder, Predominantly inattentive presentation
+#### Predominantly Inattentive Presentation
 ##### standard 
 Results indicate that {{CHILD_NAME}} meets criteria for Attention-Deficit/Hyperactivity Disorder (ADHD)-Predominantly Inattentive Presentation based on X/9 frequent symptoms of inattention and X/9 frequent symptoms of impulsivity/hyperactivity. {{CHILD_NAME}}'s neurocognitive profile (i.e., weaknesses in executive functioning, processing speed, and working memory) as well as elevations on the Conners, CBCL, ESWAN, YSR, and TRF further support this diagnosis. Behavioral strategies and plans may be used in conjunction with medication to help {{CHILD_NAME}} focus on tasks.  
 ##### suggested consultation with psychiatrist
@@ -106,12 +106,12 @@ Regarding his/her previous diagnosis of ADHD, current reports from {{CHILD_NAME}
 #### Previous dx, no symptoms reported in HBN eval: 
 Regarding attention, {{CHILD_NAME}} has a previous diagnosis of ADHD (specific presentation unspecified), for which he/she currently takes medication. Current reports revealed subclinical parental report of inattentive and hyperactive symptoms. Teacher reports were not available. Symptom reporting obtained in the context of this evaluation fails to support that {{CHILD_NAME}} has fulfilled diagnostic criteria for ADHD, currently or in the past.' That said, retrospective reporting can be challenging and is a limitation of this assessment.' Many children notice improvement in their attention and focus with stimulant medications such as Vyvanse regardless of if they have an underlying attentional disorder.' If ADHD were present, certainly the Vyvanse could treat ADHD symptoms.' Nonetheless, if longitudinal clinical evaluation fails to support active symptoms of ADHD, it may be reasonable to taper and, perhaps, discontinue the stimulant medication with close monitoring for recurrent attentional symptoms.
 ### Subclinical ADHD Questionnaires
-#### combined presentation 
+#### Combined presentation 
 ##### no teacher concern, high intelligence
 These reports indicate that {{CHILD_NAME}} presents with inattentive, hyperactive and impulsive symptoms that are consistent with a diagnosis of Attention-Deficit/Hyperactivity Disorder, Combined presentation. Behavioral observations over the course of the evaluation also indicated strong agreement with an ADHD diagnosis. {{CHILD_NAME}}'s teacher did not endorse significant concerns regarding attention on a questionnaire, suggesting that he/she is responding well to the current support and structure reportedly provided to him/her at school. His/Her intelligence also may allow him/her to compensate for attention deficits, which will become increasingly difficult as work demands increase in coming grades. Psychotherapeutic intervention, including psychopharmacology and implementation of strategies to improve his/her executive functioning are suggested, as described below.
-#### hyperactive/impulsive presentation with reported improvement
+#### Hyperactive/impulsive presentation with reported improvement
 These reports indicate that {{CHILD_NAME}} meets criteria for Attention-Deficit/Hyperactivity Disorder, Predominantly hyperactive/impulsive presentation, due to the number, frequency and severity of his/her endorsed symptoms. His/Her parent/teacher similarly indicated in an interview that {{CHILD_NAME}} displays a high level of hyperactivity in the classroom, which interferes with his/her learning. {{CHILD_NAME}}'s neurocognitive profile on objective testing (i.e. poor performance on executive functioning tasks) as well as behavioral observations during testing, further support this diagnosis. {{PARENT_NAME}} indicated a sub-clinical level of inattention in some reports, while on others, his/her symptoms were reported to be clinically significant. This can be attributed to {{CHILD_NAME}}'s reported improvement in his/her ability to sustain attention, since starting in a classroom setting which is better suited to {{CHILD_NAME}}'s learning style. It is not uncommon that children with ADHD exhibit changes in symptomatology over the course of childhood and adolescence. As such, periodic reassessment of symptom levels is warranted. Psychotherapeutic treatment of ADHD, as well as continued implementation of strategies to improve his/her executive functioning are recommended (see below). 
-#### inattentive presentation
+#### Inattentive presentation
 ##### no school report, subclinical parent questionnaires 
 These reports indicate that {{CHILD_NAME}} meets criteria for Attention-Deficit/Hyperactivity Disorder, Predominantly inattentive presentation, due to the number, frequency and severity of his/her endorsed symptoms. {{CHILD_NAME}}'s neurocognitive profile on objective testing (i.e. poor performance on executive functioning tasks) as well as behavioral observations during testing, further supports this diagnosis. Confirmation from a school report would be optimal. It is not uncommon that children with ADHD exhibit changes in symptomatology over the course of childhood and adolescence. As such, periodic reassessment of symptom levels is warranted. {{CHILD_NAME}} will benefit from continued implementation of strategies to improve his/her executive functioning as described below. 
 ### ADHD dx with associated symptoms
@@ -142,7 +142,7 @@ During the evaluation, {{PARENT_NAME}} also expressed concerns regarding {{CHILD
 #### w/ Stress at Home
 Lastly, these reports continue to indicate that {{CHILD_NAME}} presents with inattentive, hyperactive and impulsive symptoms that are consistent with his/her diagnosis of Attention-Deficit/Hyperactivity Disorder, Combined presentation. {{CHILD_NAME}}'s testing profile on neurocognitive tests (i.e. difficulty with processing speed and attention) similarly indicated strong agreement with an ADHD diagnosis. Teacher reports were not available. It is important to note that children who endure stressful home environments and have associated anxiety can present as inattentive, when in fact they are having difficulty concentrating due to emotional dysregulation. However, reports and observations indicate that {{CHILD_NAME}}'s difficulty focusing preceded changes in his/her mood and meet criteria for a separate diagnosis. Psychotherapeutic intervention including psychopharmacology and implementation of strategies to improve his/her executive functioning are suggested, as described below.
 ## Adjustment Disorder
-### past dx
+### Past Diagnosis
 #### w/ Mixed Disturbance of Emotions and Conduct
 Parental report indicates that {{CHILD_NAME}} is a bright child who is passionate about hobbies he/she is interested in but does not appear motivated or engaged in school. They endorsed concerns regarding his/her social emotional functioning including low frustration tolerance and frequent anger; {{CHILD_NAME}} seems to internalize stressful events in his/her environment. In a particularly stressful XX-month period for {{CHILD_NAME}} between MONTH YEAR and MONTH YEAR, he/she became avoidant of school, developed somatic symptoms and expressed thoughts of not wanting to be alive. A past diagnosis of Adjustment Disorder with Mixed Disturbance of Emotions and Conduct is appropriate in characterizing {{CHILD_NAME}}'s symptoms during that period. Currently, {{PARENT_NAME}} denied that {{CHILD_NAME}} is persistently irritable or depressed at a severity level warranting a diagnosis of Major Depressive Disorder or Persistent Depressive Disorder (formerly Dysthymia). Furthermore, as {{CHILD_NAME}} does not display persistently irritable mood, a diagnosis of DMDD is not warranted. 
 #### w/ Mixed Anxiety and Depressed Mood
@@ -462,9 +462,9 @@ Finally, {{CHILD_NAME}}'s parents reported ongoing toileting accidents at a freq
 ### subthreshold/Mild w/ GAD, R/O OCD
 Lastly, mild concerns were endorsed by {{CHILD_NAME}} and his/her parent relating to obsessive and compulsive behavior tendencies. {{PARENT_NAME}} reports past skin- picking behavior which has largely subsided. Skin picking can be triggered by anxiety or stress and provide individuals with a feeling of relief. Additionally, {{CHILD_NAME}} endorsed mild compulsive organizational tendencies which serve the purpose of keeping himself calm. Although there was not sufficient evidence to warrant diagnosis of excoriation disorder or obsessive-compulsive disorder (OCD), these symptoms should be closely monitored in treatment, due to his/her increased risk associated with GAD.
 ## Gender Dysphoria/Gender Identity
-### standard resources for gender identity
+### Standard resources for gender identity
 Individuals with an incongruence between expressed gender (gender identity) and assigned gender (biological sex), may experience a myriad of risks and challenges. [RN17]Resources for support are provided below. 
-### Gender Dysphoria dx 
+### Gender Dysphoria Diagnosis 
 {{CHILD_NAME}} indicated significant distress associated with the feeling his/her body does not match his/her expressed gender/gender identity.  He/She reported a strong desire to remove her primary sex characteristics (i.e., engages in binding) and he/she wants to be treated consistent with his/her expressed gender/gender identity.  [MA18]These symptoms are reported to impact {{CHILD_NAME}}'s functioning at home and with friends.  Considering the frequency of symptoms, and level of distress and impairment {{CHILD_NAME}} meets DSM-5 criteria for Gender Dysphoria.  Gender Dysphoria can cause significant distress and dysfunction due to an individual's incongruence between their expressed gender (gender identity) and assigned gender (biological sex).  As a result, individuals may experience a myriad of risks and challenges, and mental health issues, including increased rates of depression, anxiety, suicide, irritability, oppositional defiance, aggression, and behavioral issues (conduct disorder).  Mental health issues may be reduced by providing appropriate supports and resources.
 ## IED: Intermittent Explosive Disorder
 ### w/ family history of mood disorders
@@ -559,7 +559,7 @@ Additionally, {{CHILD_NAME}} endorsed the presence of obsessive and intrusive th
 #### w/ GAD and current psychotherapy treatment
 {{CHILD_NAME}} also reportedly displays symptoms related to obsessions and compulsions. Currently, the frequency, impairment and intensity of these symptoms has not met clinical threshold. Nevertheless, considering his/her diagnoses of GAD, he/she is at high-risk for developing OCD in the future, and these symptoms need to be closely monitored. It is important that these symptoms be addressed proactively in therapy. Continued psychotherapy to treat these symptoms of anxiety and develop emotional regulation skills is strongly recommended, as detailed below. 
 ## ODD: Oppositional Defiant Disorder/Temper Outbursts
-### standard 
+### Standard 
 In addition, a number of behavioral concerns were endorsed for {{CHILD_NAME}} during the clinical interview. {{PARENT_NAME}} and {{CHILD_NAME}} endorsed X/8 frequent symptoms of oppositionality and defiance (e.g., ____) for {{CHILD_NAME}} at home, in school, and during extracurricular activities[CS22]. As such, {{CHILD_NAME}} meets criteria for Oppositional Defiant Disorder. This is consistent with elevations on the CBCL, Conners, and TRF. {{CHILD_NAME}}'s oppositional and defiant behaviors can be addressed in a variety of treatment modalities, including Parent and Behavioral Management Training, as outlined below.
 ### Mild
 #### w/adhd
@@ -868,80 +868,3 @@ V62.89/R41.83	Borderline Intellectual Functioning
 303.9/F10.20 Alcohol use disorder, Severe	
 ## Neurocognitive Delay due to TBI
 331.83/G31.84 Mild Neurocognitive disorder due to traumatic brain injury
-DSM Terms 
-# Terms and Specifiers 
-1. Confirmed: Full criteria for a diagnosis are met and HBN is assigning the diagnosis to the participant.  HBN's evaluation protocols are sufficient in making the diagnosis.   ?No extra specifier needed
-2. Presumptive: Full criteria are likely met based on our evaluation and history of impairment, though HBN is unable to confirm the diagnosis due to a limitation in our evaluation protocol.  The disorder would be able to be confirmed following intervention without the need for additional testing.  
-3. Requires Confirmation: Full criteria are likely met based on our evaluation and history of impairment, though HBN is unable to confirm the diagnosis due to a limitation in our evaluation protocol.  Additionally, there is less evidence from our evaluation AND historic impairment and so less certainty than Presumptive.  The disorder would require further testing in order to confirm the diagnosis. ?
-4. Rule-out: Symptoms of a disorder are not clearly defined within one diagnostic criteria and/or are similar or overlap with other presenting disorders. e.g., inattention in the context of an untreated learning disorder/ anxiety disorder. Recommendation would be to treat anxiety/add learning support , then further evaluate for ADHD
-OR
-Insufficient information in the HBN evaluation to make a diagnosis (or to say that the child definitively does not have a diagnosis), but concerns or vulnerabilities were evident that should be further evaluated /monitored e.g., concerns from parent about writing in educational history and behavior obs that child struggles with all writing tasks; rule-out SLD, with impairment in written expression?
-5. Past: Full criteria for a disorder were reported during Mental Health Interview, though symptoms are reported to be no longer present for the past 2 months.
-6. In Partial remission: Full criteria for a Major Depressive Disorder was reported during Mental Health Interview in the past. Currently there are still some symptoms of depression, but not enough to meet criteria for MDD. Can only be used as specified in the DSM
-7. By History: A diagnosis of a disorder was reported during the HBN evaluation, though HBN is unable to confirm this diagnosis, either because the diagnosis is not fully assessed by HBN OR there was insufficient evidence on the HBN evaluation to confirm the previous diagnosis ? e.g., SLD, with impairment in written expression- not assessed?, Autism- not enough symptoms reported by parent and behavioral observations were inconsistent with autism. 
-8. Single Episode vs. Recurrent episodes of a Major Depressive episode
-a. Count as recurrent episodes if there is a 2 month period with full remission of symptoms
-b. If there is only partial remission of symptoms for any period within the course of the depression, count as part of one episode
-c. If full remission of symptoms was less than 2 months, count as one episode
-d. Anchor symptom count when depression is most severe 
-
-
-[CS1]Past tense language, edit accordingly
-[CS2]If applicable
-[CS3]Pick 1 specifier 
-[JA4]Specific case example modify as needed
-[CS5]If applicable. Note: Selective Mutism cannot be dxed if exclusively w/in context of Autism Spectrum Disorder
-[CS6]If applicable
-[MD7]Edit accordingly
-[MD8]Edit accordingly
-[CS9]For ADHD
-[AR10]Code varies depending on substance/medication type and whether a substance use disorder is present
-[CS11]Specify if:
-With limited prosocial emotions = must have at least two of the following characteristics, present persistently for at least the past 12 months across multiple contexts: Lack of remorse or guilt, Callous lack of empathy, Unconcerned about performance, Shallow or deficient affect
-
-Specify severity:
-Mild
-Moderate
-Severe
-[CS12]Will determine onset:
-Prior to 10 = Childhood-onset
-Age 10+ = Adolescent-onset
-Unclear = Unspecified-onset
-[CS13]Will determine specifier of:
-Nocturnal only
-Diurnal only
-Nocturnal and diurnal
-[CS14]Will determine specifier of:
-With constipation and overflow incontinence 
-Without constipation and overflow incontinence
-If applicable[AR15]
-[CS16]If applicable
-[RN17]Insert any associated challenges or vulnerabilities mentioned for this child, eg social difficulties
-[MA18]Include any additional endorsed sxs/bxs that are appropriate
-[CS19]Onset needs to be before age 10. Note: First time dx cannot be before age 6 or after age 18.
-[CS20]If applicable (currently engaging in tx)
-[CS21]Will determine specifier:
-With good or fair insight
-With poor insight
-With absent insight/delusional beliefs
-
-[CS22]Will determine severity:
-1 setting = Mild
-2 settings = Moderate
-3 settings = Severe
-[CS23]If applicable
-[JA24]If applicable
-[JA25]If applicable
-[CS26]If applicable
-[CS27]Effectiveness of medication, if applicable
-[AR28]2-3 symptoms
-[AR29]4-5 symptoms
-[AR30]6 or more symptoms
-[CS31]Will determine specifier:
-With motor tics only
-With vocal tics only
-[AR32]Add specifier(s), if applicable:
-With dissociative symptoms
-With delayed expression
-[MA33]Edit as necessary
-[CS34]If applicable

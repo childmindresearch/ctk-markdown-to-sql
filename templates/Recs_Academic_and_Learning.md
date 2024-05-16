@@ -1,11 +1,8 @@
 # Reading
 
-## DSM-5 DIAGNOSIS
-
-315.00 (F81.0) Specific Learning Disorder, With impairment in reading 
-
 ## Academics and Learning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a school consultation is requested in {{CHILD-NAME}}’s school in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s teachers understand his/her learning profile and that he/she receive educational services and supports to target difficulties in a formalized support plan (i.e., IEP).  
 2. **Educational Placement:** {{!REC-CLASS-PLACEMENT}}
 3. **Classroom Modifications and Accommodations:** {{CHILD-NAME}} should be provided with the following classroom modifications and accommodations, in order to ensure {{CHILD-NAME}} grasps presented material and can demonstrate his/her knowledge:
@@ -38,10 +35,34 @@
     10. On-task focusing prompts provided
     11. Answers recorded in test booklet 
 
+## Assistive Technology - SLD-R
+
+***Assistive Technology***
+Students who struggle with reading, including those identified to have a Specific Learning Disorder, benefit significantly from the use of assistive technology (AT).  
+1. **Text-to-speech (TTS) Apps:** These allow students to see text and hear it aloud at the same time. To use these tools, students click on a highlighted word(s), and the words are read aloud by a computer-generated voice. TTS may be used with any digital text (i.e., books, emails, web pages), and can be used to convert text files to audio files. Low cost apps are available for download on tablets and smartphones, such as: 
+    1. *Voice Dream Reader* is a customizable app that allows one to highlight text and have it read aloud to them. Users can adjust the voice the app uses as well as its speed, and connect to their Google Drive, Evernote, or Dropbox accounts to have documents read to them. 
+    2. *Claro ScanPen* allows you to take a photo of printed text, select the text with your finger, and have it read aloud, including worksheets and school notices. This app utilizes Optical Character Recognition (OCR), and therefore does not require an internet connection to work.  
+    3. *Dyslexia Toolbox* markets itself as an app “by dyslexic people for dyslexic people” and offers a suite of useful AT features are available for older kids and adolescents with dyslexia. Features include a type pad with word prediction software that can help users create messages for text, email, and social media, as well as a digital overlay for reading text through a color screen and a digital photo reader (for purchase) that takes photos of text and reads them aloud. Price: Free; some features require in-app purchase.  
+    4. *Read&Write for Google Chrome* is an extension that can be purchased for a $100 yearly subscription but is free for teachers to set up accounts for their students. Its TTS software offers several voices and dual-color highlighting, which highlights both sentence and individual words as their read aloud and can read text from screenshots and images. This extension offers a text and picture dictionary to aide in reading comprehension as well as the ability to simplify the text on the page (i.e., collects the most important information and creates a summary).  
+    5. *Snap&Read Universal* is a TTS tool that starts reading a webpage aloud from where one clicks on a word. It has the ability to read both digital text as well as text in pictures and images. This extension also features the ability to simplify words and phrases for readers who struggle with vocabulary. Students may also highlight and organize text into an outline to help with reading comprehension.  
+    6. *SpeakIt* is a simple TTS tool in which readers highlights text in Chrome, click a button, and listen as the words are read aloud. Users can adjust the speaking pace and select from several voices.  
+    7. *Scrible* assists with reading and researching online with set of note-taking tools that allows readers to mark up and save information from web pages. A pop-up tool bar offers the ability to highlight text in several colors, add sticky notes, underline, bold, strikethrough, and italicize text, as well as bookmark and save annotated pages. Price: $28/year, basic version is free. 
+    8. *Read Mode* is a free extension for Google Chrome that removes clutter from web pages to make them easier to read by eliminating ads and animations and converting web pages into simple black and white text articles. 
+2. **Literacy Software Programs:** These programs for laptop or desktop computers have been proven effective in assisting struggling readers and while costlier, often offer more functions than their app counterparts. Examples include;  
+    1. *ClaroRead* offers TTS and OCR capabilities which allows users to have text and images read to them, as well as screen masking, which hides part of the screen in order to reduce distractions, as well as talking and pronunciation dictionaries.  Price: $225 (Windows)/$260 (Mac), the Basic version is available for $85, but only offers TTS and OCR. 
+    2. *Inspiration* allows readers to create graphic organizers to help them understand what they’re reading, as well as reading templates to help readers identify story elements and characters or to compare and contrast ideas. Price: $39.95 (Mac or Windows). 
+    3. *Microsoft Immersive Reader* is a tool that can be used for free in Microsoft Word, OneNote, Outlook, and the Edge browser. Features include TTS, OCR, and screen masking, as well as display control, which allows users to control how documents are viewed, including spacing, fonts, margins, and color of the text and background. A picture dictionary function shows a picture of what a word means along with its written definition. The Immersive Reader can also divide words into syllables, which can help with decoding, and words can also be labeled according to parts of speech (nouns, verbs, adjectives, adverbs). 
+    4. *NaturalReader* offers TTS capabilities that allows users to listen to webpages and various documents with the choice of several different natural-sounding readers, as well as OCR for up to 30 documents in the free version. The program syncs with an app for use on mobile devices. Price: $99.50 (Mac or Windows), there is a Basic version available for free. 
+3. **Audiobooks and Digital TTS Books** allow students to hear books read aloud. Audiobooks have the added benefit of having a human reader, which is often preferable to the computer-generated voice in TTS books.  
+    1. Apps and websites such as *Audible* (www.audible) and *Epic!* (www.getepic.com) offer extensive libraries of audiobooks for most reading levels. If your child’s school subscribes to Epic! They can be set up with an individual account with their teacher in order to provide them with free access to the library. 
+    2. *Learning Ally* (https://learningally.org/) is an audiobook reader that offers access to over 80,000 audiobooks with real voice readers. To use this app, you must have a Learning Ally membership ($135/year for unlimited books). However, if your child’s school subscribes to Learning Ally, they can be provided with an account at no cost. 
+    3. *Bookshare:* Many schools subscribe to Bookshare (www.bookshare.org), which would permit your child access. Additionally, those with documented diagnoses of Dyslexia or another “print disability” may quality for a free Bookshare account independently. 
+
 # ADHD
 
 ## Academics and Learning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a consultation is requested in {{CHILD-NAME}}’s school in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s teachers understand his/her learning profile and that he/she continues to receive educational services and supports in his/her school environment to target executive functioning difficulties in a formalized support plan (i.e., IEP, Section 504 Plan). It will be important to consider specific behavioral components of {{CHILD-NAME}}’s educational programming on an ongoing basis to ensure success. With minor adaptations, similar strategies can be used in the home environment to maintain consistency across settings. 
 2. Educational Placement: {{!REC-CLASS-PLACEMENT}}
 3. **Testing Accommodations:** {{CHILD-NAME}} requires the following accommodations during tests due to executive functioning deficits associated with ADHD in order to accurately represent his/her knowledge:   
@@ -65,17 +86,16 @@
     8. *Use of a Graphic Organizer:* As writing is a complex task that requires a great deal of mental organization, {{CHILD-NAME}} should be provided with a graphic organizer during writing tasks in order to help him/her better organize his/her thoughts into a coherent writing piece.  
 5. **Functional Behavior Assessment and Behavior Intervention Plan:** A Functional Behavioral Assessment (FBA) should be conducted and, if deemed appropriate, subsequent Behavior Intervention Plan (BIP) put into place to address {{CHILD-NAME}}’s behavior in school that is intrusive to his/her learning and the learning of others. The plan, if appropriate, should be specific and clearly stated, including the people responsible for implementing interventions, rewards, and measures of progress. Implementation of an individualized behavior plan as well as consistent behavioral services and classroom interventions will be critical to ensure that he/she can maximally benefit from intellectually challenging material and promote his/her motivation to engage in the academic setting. 
 
-# Language Disorder 
-
-## DSM-5 DIAGNOSIS
-315.32 (F80.2)		Language Disorder  
+# Language Disorder  
 
 ## Further Evaluation
 
+***Further Evaluation***
 **Speech and Language Evaluation and Services:** In light of {{CHILD-NAME}}’s inconsistent performance in language screening, a comprehensive evaluation of his/her language processing is recommended. This assessment should be performed by a certified speech-language pathologist. It is critical that this thorough evaluation aim to identify {{CHILD-NAME}}’s complete speech and language profile, including his/her pragmatic language skills. It is recommended that he/she be provided with additional services through an Individualized Education Program (IEP) if warranted. 
 
 ## Academics and Learning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a school consultation is requested in {{CHILD-NAME}}’s school in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s teachers understand his/her learning profile and that he/she continues to receive educational services and supports in his/her school environment to target executive functioning difficulties in a formalized support plan (i.e., IEP, Section 504 Plan).  
 2. **Educational Placement:** {{!REC-CLASS-PLACEMENT}}
 3. **Classroom Modifications and Accommodations:** Due to language weaknesses, {{CHILD-NAME}} should be provided with the following classroom modifications and accommodations, in order to ensure that he/she grasps presented material and can demonstrate his/her knowledge: 
@@ -96,12 +116,9 @@
 
 # Mathematics
 
-## DSM-5 DIAGNOSIS
-
-315.1/F81.2		Specific Learning Disorder, With impairment in mathematics 
-
 ## Academics and Learning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a school consultation is requested in {{CHILD-NAME}}’s school in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s teachers understand his/her learning profile and that he/she continues to receive educational services and in a formalized support plan (i.e., IEP, Section 504 Plan). 
 2. **Educational Placement:** {{!REC-CLASS-PLACEMENT}}
 3. **Academic Support:** Due to {{CHILD-NAME}}’s significant learning weaknesses, he/she continues to require(s) special education intervention from a learning specialist trained in research-based practices to remediate his/her deficits in math calculation/math problem solving/math fluency. Instruction should be individualized and/or in small groups and provided to {{CHILD-NAME}} daily. His/her current program of Special Education Teacher Support Services (SETSS) for both ELA and Math is appropriate. However, if {{CHILD-NAME}} continues to struggle making academic progress, the frequency of these services should be re-evaluated. OR His/her current program of XXX is not currently meeting his/her academic needs. It is recommended he/she receive more/less intensive support in the form of XXX in order to more appropriately address his/her unique learning profile and academic needs.  Examples of evidence-based programs are as follows: 
@@ -134,13 +151,9 @@
 
 # Reading and Math Disorders
 
-## DSM-5 DIAGNOSES
-
-315.00/F81.0		Specific Learning Disorder, With impairment in reading 
-315.1/F81.2		Specific Learning Disorder, With impairment in mathematics 
-
 ## Academics and Learning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a school consultation is requested in {{CHILD-NAME}}’s school in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s teachers understand his/her learning profile and that he/she continues to receive educational services and in a formalized support plan (i.e., IEP, Section 504 Plan). 
 2. **Educational Placement:** {{!REC-CLASS-PLACEMENT}}  
 3. **Testing Accommodations:** {{CHILD-NAME}} requires the following accommodations during tests due to deficits related to reading and math skills in order to accurately represent his/her knowledge.:
@@ -166,8 +179,6 @@
     7. *Touch Math* (http://www.touchmath.com) is a multisensory math program that makes critical math concepts appealing and accessible for students who struggle to understand grade-level content. TouchMath is committed to maximizing student potential through its worldwide delivery of hands-on math programs, cultivating success with individuals of all abilities and learning styles.
     8. *Lindamood Bell “On Cloud Nine”* (https://lindamoodbell.com/program/on-cloud-nine-math-program)- The On Cloud Nine program develops the ability to image and verbalize the concepts and processes of math.  Concept imagery and numerical imagery are integrated with language to improve both mathematical reasoning and mathematical computation. 
     9. *Number Worlds* (https://www.mheducation.com/prek-12/program/number-worlds-2015/MKTSP-TIG05M0.html)- is a highly-engaging, research-proven, teacher-led math intervention program that was built on rigorous state standards to bring math-challenged PreK–8 students up to grade level with Real World Applications.
-
- 
 5. **Classroom Modifications and Accommodations:** {{CHILD-NAME}} should be provided with the following classroom modifications and accommodations, in order to ensure {{CHILD-NAME}} grasps presented material and can demonstrate his/her knowledge:
     1. *Check for Understanding:* Individuals working with {{CHILD-NAME}} should utilize methods to ensure that {{CHILD-NAME}} understands information. For example, {{CHILD-NAME}} may be asked to repeat directions prior to task initiation. Socratic questioning, and guided exploration techniques can also be used to ensure that {{CHILD-NAME}} comprehends the concept being taught.
     2. *Preferential Seating:* {{CHILD-NAME}} requires preferential seating where both auditory and visual stimuli are optimally received, as well as away from distracting peers. This will facilitate his/her ability to attend to and understand material. (Note that preferential seating does not necessarily mean the front of the classroom, but where {{CHILD-NAME}} can best access instruction with minimal distraction.)
@@ -180,22 +191,21 @@
 
 # Writing
 
-## DSM-5 DIAGNOSIS
-
-315.2 (F81.81)	Specific Learning Disorder, With impairment in written expression 
-
 ## Further Evaluation
 
+***Further Evaluation***
 1. **Assistive Technology:** Due to {{CHILD-NAME}}’s noted academic/ fine motor weaknesses, impacting his/her ability to independently access the general education curriculum, it is recommended he/she receive an Assistive Technology Evaluation in order to determine whether the use of assistive technology within the school setting is an appropriate and necessary support for him/her at this time. According to the most recent research, assistive technology is an effective support for students within the classroom and larger school settings for students with a myriad of weaknesses that impact their school functioning and ability to independently access curriculum. The appropriate assistive devices may help {{CHILD-NAME}} work more quickly and accurately, increase his/her confidence and independence, and help him/her meet his/her educational goals.
 2. **Supplemental Writing Evaluation:** The current evaluation did not comprehensively assess {{CHILD-NAME}}’s writing skills. Due to reported concerns regarding his/her written expression, further evaluation is recommended to assess his/her handwriting fluency, spelling, compositional fluency, writing mechanics, and composition: both narrative and expository. It is recommended that he/she be provided with additional services through an Individualized Education Program (IEP) if warranted.  
 
 ## Academics and Learning
 
+***Academics and Learning***
 1. **Academic Support:** Due to {{CHILD-NAME}}’s significant learning weaknesses, he/she continues to require special education intervention from a learning specialist trained in research-based practices to remediate his/her deficits in writing. Instruction should be individualized and/or in small groups and provided to {{CHILD-NAME}} daily.  An example of an evidence-based program is as follows:
     - *Step Up To Writing* teaches students to organize ideas and information, write topic sentences and thesis statements, connect key ideas with supportive details, write conclusions, think creatively and other components of effective writing.  The program is divided into manageable steps and includes writing examples, activity sheets, and scoring rubrics, skills sequences for strategies and topics for writing projects.  https://www.voyagersopris.com/literacy/step-up-to-writing/overview 
 
 ## Assistive Technology
 
+***Assistive Technology***
 Students who struggle with either the fine motor skill of writing or with the content and organization of written expression benefit significantly from the use of assistive technology, including:
 1. **Word Processing Tools**, including a basic keyboard and word processing software (such as Microsoft Word or Pages) are of particular benefit to users who struggle with the task of writing. Individuals can improve keyboarding skills with software programs and websites geared toward their developmental level and interests such as Typing Instructor and Typing Instructor for Kids, Mavis Beacon Keyboarding Kidz, and All The Right Type. 
 2. **Apps:** Low Cost or free apps are available for download on tablets and smartphones:  
@@ -209,6 +219,7 @@ Students who struggle with either the fine motor skill of writing or with the co
 
 ## Academics and Learning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a school consultation is requested in {{CHILD-NAME}}’s school in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s teachers understand his/her learning profile and that he/she continues to receive educational services and supports in his/her school environment to target executive functioning difficulties in a formalized support plan (i.e., IEP, Section 504 Plan).
 2. **Educational Placement:** {{CHILD-NAME}} requires placement in a small (i.e., low student-to-teacher ratio), nurturing classroom setting within a small special education school with special-education teachers and professionals who are specifically trained to teach children with a similar cognitive profile and can address each child’s specific social, language, and academic needs. Children with intellectual disabilities require a modified skills-based curriculum that can provide intense language remediation and training that allow them to make progress and appropriately demonstrate their intellectual potential. Each child’s strengths should be reinforced throughout the curriculum. Students should be surrounded by peers with similar cognitive abilities and learning needs, as well as good peer models without behavioral problems. Classes should also be taught by educators who will be patient and supportive of their students’ learning styles, as well as recognize their strengths and weaknesses. Children with intellectual disabilities require multisensory support and interventions and small group instruction, as well as one-on-one instruction as needed. The curriculum should include direct instruction on adaptive daily living skills.  Such a school should offer the required support to help each child develop his/her talents and work towards greater independence and adaptive functioning. 
 
@@ -216,6 +227,7 @@ Students who struggle with either the fine motor skill of writing or with the co
 
 ## Academics and Learning
 
+***Academics and Learning***
 **Gifted Education:** {{CHILD-NAME}}’s profile aligns with that of a “gifted learner,” and he/she would benefit from being provided with learning opportunities that are commensurate with his/her intellectual potential. The current understanding of gifted students is that they have an advanced knowledge-base and unique areas of learning need compared to their non-gifted peers.  Thus, {{CHILD-NAME}} also needs to be monitored to ensure that his/her learning and emotional needs are being effectively addressed. Specifically, when gifted students are not provided with challenging academic demands, they are at risk of becoming accustomed to a relaxed approach to learning. Subsequently, this can lead to underachievement, particularly as the curriculum develops becomes more complex and abstract, and independent-learner demands are increased. Further, when a learner, such as {{CHILD-NAME}}, is not presented with content that is commensurate with his/her intellectual potential, he/she can become frustrated, experience decreased self-esteem, and struggle with lower internal motivation. In the event this occurs, he/she may engage in problematic behaviors as an outlet for his/her frustration.  
 In addition, gifted learners often experience testing anxiety and are at increased risk of developing issues associated with perfectionism. Thus, if {{CHILD-NAME}} struggles with either of these or other similar difficulties, it will be imperative to support his/her ability to implement adaptive coping strategies, including but not limited to the development of effective learning and study skills.   
 Overwhelmingly, learners, particularly those who are gifted, benefit from participation in preferred structured activities. Thus, it is strongly recommended that {{CHILD-NAME}} continue to participate in preferred extra-curricular activities of his/her choice. He/she will benefit from having the opportunity to participate in a non-academic activity that supports the development of his/her socialization skills, improves his/her understanding of teamwork, and allows him/her to excel in an area of interest.  
@@ -224,12 +236,14 @@ Overwhelmingly, learners, particularly those who are gifted, benefit from partic
 
 ## Academics and Learning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a consultation is requested in {{CHILD-NAME}}’s school in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s teachers understand his/her learning profile and that he/she receives services and supports in the school environment to target emotional difficulties. 
 2. **School Counseling:** {{CHILD-NAME}} may benefit from school-based counseling services, on an individual basis. Topics to be addressed should include improving stress tolerance and developing concrete and easily accessible coping strategies. They can also be taught, and subsequently be encouraged to practice, the following activities: deep breathing, mindfulness activities, deep pressure (hand massaging, joint compression), tactile activities (squeezing a ball). Other sensory experiences that may be soothing to {{CHILD-NAME}} may be explored. 
 3. **School Accommodations:** {{CHILD-NAME}} would benefit from accommodations to reduce anxiety in the school setting. His/Her class schedule should be reviewed to determine if he/she is placed in appropriate classes. Other accommodations should be considered to minimize situations that could contribute to feelings of anxiety (e.g., reducing time in busy hallways). To the extent possible and appropriate, {{CHILD-NAME}} should be involved in the development of these accommodations. 
 
 # Hearing Impaired Accommodations 
 
+***Academics and Learning***
 1. **Testing Accommodations:** {{CHILD-NAME}} requires the following accommodations during tests due to hearing loss and his/her academic and executive skills deficits associated with hearing loss in order to accurately represent his/her knowledge:
     1. Extended time (1.5x) 
     2. Questions and directions repeated 
@@ -289,6 +303,7 @@ Overwhelmingly, learners, particularly those who are gifted, benefit from partic
 
 ## Presentation Style
 
+***Presentation Style Accommodations***
 - **Large Print:** Large-print books are used for instruction or portions of books, such as a map, are enlarged as needed. 
 - **Highlighting:** Markers and highlighting tape are used to enhance the important parts of text. 
 
@@ -296,6 +311,7 @@ Overwhelmingly, learners, particularly those who are gifted, benefit from partic
 
 ## Writing evaluation 
 
+***Further Evaluations***
 **Supplemental Writing Evaluation:** The current evaluation did not comprehensively assess {{CHILD-NAME}}’s writing skills. Due to reported concerns regarding his/her written expression, further evaluation is recommended to assess his/her handwriting fluency, spelling, compositional fluency, writing mechanics, and composition: both narrative and expository. It is recommended that he/she be provided with additional services through an Individualized Education Program (IEP) if warranted.
 
 ## Assistive Technology 
@@ -366,6 +382,7 @@ Children who have difficulty separating from their caregivers to attend school c
 
 ## College Application Resources for Special Needs 
 
+***College Application Resources for Special Needs***
 1. Think College is a national organization dedicated to developing, expanding, and improving inclusive higher education options for people with developmental disability https://thinkcollege.net/ 
 2. College Living Experience (CLE). It is a comprehensive program that offers support to individuals with various exceptionalities who want the college experience.  https://experiencecle.com/   
 3. Texas A&M has a 4-year transition certificate program for students diagnosed with Intellectual Disability called Aggie ACHIEVE in which students live on campus and receive coursework as well as training on ADLs, job skills etc: https://aggieachieve.tamu.edu/  
@@ -379,6 +396,7 @@ Children who have difficulty separating from their caregivers to attend school c
 
 ### General
 
+***College Recommendations for Special Needs***
 1. Supportive Environment: {{CHILD-NAME}} and his/her family should consider colleges with highly supportive programs. A list of colleges offering such programs can be found at this web address:  https://www.college-scholarships.com/colleges-by-state/colleges-with-programs-for-students-with-learning-disabilities/ 
 2. Accommodations: {{CHILD-NAME}} should be provided with college-based accommodations under the Americans with Disabilities Act (ADA). {{CHILD-NAME}} is encouraged to register with the Disability Resource Center at his/her university in order to receive appropriate accommodations.
 3. Collaborative Meeting: {{CHILD-NAME}} should contact the Student Support Services department and share this documentation with a counselor. He/she will require reasonable accommodations and modifications in the classroom and is legally entitled to these accommodations as an individual with a documented disability. 
@@ -408,10 +426,12 @@ Children who have difficulty separating from their caregivers to attend school c
 
 ### Further Evaluation 
 
+***Further Evaluation***
 **Speech and Language Evaluation and Services:** In light of {{CHILD-NAME}}’s inconsistent performance in language screening, a comprehensive evaluation of his/her language processing is recommended. This assessment should be performed by a certified speech-language pathologist. It is critical that this thorough evaluation aim to identify {{CHILD-NAME}}’s complete speech and language profile, including his/her pragmatic language skills. It is recommended that he/she be provided with additional services through his/her school/university/college’s office disability services.  
 
-### Academics and Learning - Executive Functioning
+# Executive Functioning
 
+***Academics and Learning***
 1. **School Consultation:** It is recommended that a consultation is requested in {{CHILD-NAME}}’s school/university/college in order to share the results of this evaluation. It is important that {{CHILD-NAME}}’s professors understand his/her learning profile and that he/she continues to receive(s) educational services and supports in his/her school environment to target executive functioning difficulties in a formalized support plan. It will be important to consider specific behavioral components of {{CHILD-NAME}}’s educational programming on an ongoing basis to ensure success.  
 2. **Executive Functioning Coaching:** Coaches teach students how to organize, plan, prioritize, manage time, maintain focus, self-assess, and study efficiently. When working with teenagers or adults, coaches use real-life demands to show individuals ways to be more effective and productive. Unlike tutors, they don’t work on specific school subjects rather they teach how to become more efficient learners.  
 3. **Academic Support:** {{CHILD-NAME}}’s instructional needs must be addressed immediately to ensure that he/she does not quit trying and that he/she progresses academically. Due to {{CHILD-NAME}}’s significant learning weaknesses, he/she requires intervention to remediate his/her deficits in decoding, fluency, reading comprehension, and phonological processing. Examples of adult literacy reading programs are listed below: 
@@ -421,7 +441,6 @@ Children who have difficulty separating from their caregivers to attend school c
         - *Multi-sensory Teaching Approach (MTA)* is a is an Orton-Gillingham based comprehensive, multi-sensory program in reading, spelling, cursive handwriting, and alphabet and dictionary skills. www.mtspublications.com 
         - *The Herman Method* is a phonetic, structured, sequential approach based on the Orton-Gillingham Method and specifically designed for students with dyslexia/specific reading disability. The program teaches decoding, sight words, structural analysis, contextual clues and dictionary skills with consistent emphasis on comprehension. It is a remedial reading program that can be taught by trained paraprofessionals. (Contact: 818.784.9566). 
         - *The Wilson Reading System* is a 12-step remedial reading and writing program for individuals with language-based learning disabilities. The system specifically teaches strategies for decoding and spelling. It also includes oral expressive language development and comprehension. Visualization techniques are used for comprehension. Based on the Orton-Gillingham teaching techniques. www.wilsonlanguage.com 
-
     2. *Landmark Methodology* is a structured multi-sensory reading, spelling and writing program. www.landmarkoutreach.org 
     3. *Lindamood-Bell program* offers intensive treatment to develop reading, spelling, language comprehension, visual motor processing, and the ability to follow oral directions. www.lindamoodbell.com/programs 
     4. *Project READ* is a method of teaching that is systematic, multi-sensory, concrete and involves direct instruction. It is a language arts program based on the theories of Samuel Orton. www.projectread.com/ 
@@ -443,29 +462,7 @@ Children who have difficulty separating from their caregivers to attend school c
     5. *Additional Time in Class:* Professionals working with {{CHILD-NAME}} should provide his/her with additional “wait” time to respond and should encourage him/her to elaborate when answering questions in order to accurately determine his/her knowledge of a topic. {{CHILD-NAME}}’s teachers should also consider the need for extended time to complete assignments when necessary. 
     6. *Modified Homework Assignments:* Reducing the amount of work in each area assigned for homework should be considered in consultation between parents and teachers so that {{CHILD-NAME}} can complete his/her assignment(s) in approximately the same amount of time other students are expected to spend. Examples of modified assignments are: solving the odd-numbered math problems instead of all the items and writing a half-page report instead of a whole page, but still including all necessary pieces of the assignment. Try not to send unfinished class work home for homework.  
     7. *Tasks Broken Down:* Tasks should be broken down into more manageable units in order for {{CHILD-NAME}} to not become overwhelmed with the amount of work presented and to better organize his/her work. {{CHILD-NAME}} should be provided with interim due dates so his/her teacher(s) can check on the progress before the due date. 
-    8. *Use of a Graphic Organizer:* As writing is a complex task that requires a great deal of mental organization, {{CHILD-NAME}} should be provided with a graphic organizer during writing tasks in order to help him/her better organize his/her thoughts into a coherent writing piece.  
-
-# Assistive Technology - SLD-R
-
-Students who struggle with reading, including those identified to have a Specific Learning Disorder, benefit significantly from the use of assistive technology (AT).  
-1. **Text-to-speech (TTS) Apps:** These allow students to see text and hear it aloud at the same time. To use these tools, students click on a highlighted word(s), and the words are read aloud by a computer-generated voice. TTS may be used with any digital text (i.e., books, emails, web pages), and can be used to convert text files to audio files. Low cost apps are available for download on tablets and smartphones, such as: 
-    1. *Voice Dream Reader* is a customizable app that allows one to highlight text and have it read aloud to them. Users can adjust the voice the app uses as well as its speed, and connect to their Google Drive, Evernote, or Dropbox accounts to have documents read to them. 
-    2. *Claro ScanPen* allows you to take a photo of printed text, select the text with your finger, and have it read aloud, including worksheets and school notices. This app utilizes Optical Character Recognition (OCR), and therefore does not require an internet connection to work.  
-    3. *Dyslexia Toolbox* markets itself as an app “by dyslexic people for dyslexic people” and offers a suite of useful AT features are available for older kids and adolescents with dyslexia. Features include a type pad with word prediction software that can help users create messages for text, email, and social media, as well as a digital overlay for reading text through a color screen and a digital photo reader (for purchase) that takes photos of text and reads them aloud. Price: Free; some features require in-app purchase.  
-    4. *Read&Write for Google Chrome* is an extension that can be purchased for a $100 yearly subscription but is free for teachers to set up accounts for their students. Its TTS software offers several voices and dual-color highlighting, which highlights both sentence and individual words as their read aloud and can read text from screenshots and images. This extension offers a text and picture dictionary to aide in reading comprehension as well as the ability to simplify the text on the page (i.e., collects the most important information and creates a summary).  
-    5. *Snap&Read Universal* is a TTS tool that starts reading a webpage aloud from where one clicks on a word. It has the ability to read both digital text as well as text in pictures and images. This extension also features the ability to simplify words and phrases for readers who struggle with vocabulary. Students may also highlight and organize text into an outline to help with reading comprehension.  
-    6. *SpeakIt* is a simple TTS tool in which readers highlights text in Chrome, click a button, and listen as the words are read aloud. Users can adjust the speaking pace and select from several voices.  
-    7. *Scrible* assists with reading and researching online with set of note-taking tools that allows readers to mark up and save information from web pages. A pop-up tool bar offers the ability to highlight text in several colors, add sticky notes, underline, bold, strikethrough, and italicize text, as well as bookmark and save annotated pages. Price: $28/year, basic version is free. 
-    8. *Read Mode* is a free extension for Google Chrome that removes clutter from web pages to make them easier to read by eliminating ads and animations and converting web pages into simple black and white text articles. 
-2. **Literacy Software Programs:** These programs for laptop or desktop computers have been proven effective in assisting struggling readers and while costlier, often offer more functions than their app counterparts. Examples include;  
-    1. *ClaroRead* offers TTS and OCR capabilities which allows users to have text and images read to them, as well as screen masking, which hides part of the screen in order to reduce distractions, as well as talking and pronunciation dictionaries.  Price: $225 (Windows)/$260 (Mac), the Basic version is available for $85, but only offers TTS and OCR. 
-    2. *Inspiration* allows readers to create graphic organizers to help them understand what they’re reading, as well as reading templates to help readers identify story elements and characters or to compare and contrast ideas. Price: $39.95 (Mac or Windows). 
-    3. *Microsoft Immersive Reader* is a tool that can be used for free in Microsoft Word, OneNote, Outlook, and the Edge browser. Features include TTS, OCR, and screen masking, as well as display control, which allows users to control how documents are viewed, including spacing, fonts, margins, and color of the text and background. A picture dictionary function shows a picture of what a word means along with its written definition. The Immersive Reader can also divide words into syllables, which can help with decoding, and words can also be labeled according to parts of speech (nouns, verbs, adjectives, adverbs). 
-    4. *NaturalReader* offers TTS capabilities that allows users to listen to webpages and various documents with the choice of several different natural-sounding readers, as well as OCR for up to 30 documents in the free version. The program syncs with an app for use on mobile devices. Price: $99.50 (Mac or Windows), there is a Basic version available for free. 
-3. **Audiobooks and Digital TTS Books** allow students to hear books read aloud. Audiobooks have the added benefit of having a human reader, which is often preferable to the computer-generated voice in TTS books.  
-    1. Apps and websites such as *Audible* (www.audible) and *Epic!* (www.getepic.com) offer extensive libraries of audiobooks for most reading levels. If your child’s school subscribes to Epic! They can be set up with an individual account with their teacher in order to provide them with free access to the library. 
-    2. *Learning Ally* (https://learningally.org/) is an audiobook reader that offers access to over 80,000 audiobooks with real voice readers. To use this app, you must have a Learning Ally membership ($135/year for unlimited books). However, if your child’s school subscribes to Learning Ally, they can be provided with an account at no cost. 
-    3. *Bookshare:* Many schools subscribe to Bookshare (www.bookshare.org), which would permit your child access. Additionally, those with documented diagnoses of Dyslexia or another “print disability” may quality for a free Bookshare account independently.  
+    8. *Use of a Graphic Organizer:* As writing is a complex task that requires a great deal of mental organization, {{CHILD-NAME}} should be provided with a graphic organizer during writing tasks in order to help him/her better organize his/her thoughts into a coherent writing piece.   
 
 # Vocational Programs/Support 
 
